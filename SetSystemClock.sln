@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetSystemClock", "SetSystemClock\SetSystemClock.csproj", "{B03C42F9-05EC-4711-8DBB-B8421AE10775}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{C059FA5F-7E20-41A6-A85D-142F540B67AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03C42F9-05EC-4711-8DBB-B8421AE10775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03C42F9-05EC-4711-8DBB-B8421AE10775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03C42F9-05EC-4711-8DBB-B8421AE10775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03C42F9-05EC-4711-8DBB-B8421AE10775}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C059FA5F-7E20-41A6-A85D-142F540B67AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C059FA5F-7E20-41A6-A85D-142F540B67AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C059FA5F-7E20-41A6-A85D-142F540B67AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C059FA5F-7E20-41A6-A85D-142F540B67AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC5A429C-6C74-4E17-A5E2-177ACAF8F416}
+	EndGlobalSection
+EndGlobal
